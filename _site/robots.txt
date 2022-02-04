@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://devkerberos.github.io/sitemap.xml
