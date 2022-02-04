@@ -1,10 +1,10 @@
 site: devkerberos
-title: 케로베로스의 블로그
+title: devkerberos
 greetings: Hi 👋
 description: >-
-  just a stranger , personal blog , programmer
+  programmer
 lang: en-US
-timezone:  asia/seoul
+timezone:  Asia/Seoul
 repo: https://github.com/devkerberos # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
