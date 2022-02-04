@@ -13,16 +13,16 @@ discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
+  name: dev.kerberos
   bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
   picture: assets/images/profile.jpg 
-  github: onepase # github username
-  twitter: onepase # twitter username
-  facebook: onepase # facebook username
-  instagram: onepase # instagram username
+  github: devkerberos # github username
+  twitter: devkerberos# twitter username
+  facebook: devkerberos# facebook username
+  instagram: ddlee0928 # instagram username
   youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  linkedin: dev.kerberos # linkedin username
+  email: dev.kerberos@gmail.com # email adress
 
 
 # URL settings
